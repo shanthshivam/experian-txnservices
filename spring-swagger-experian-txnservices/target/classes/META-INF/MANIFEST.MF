@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: shant
+Build-Jdk: 14.0.2
+Implementation-Title: spring-swagger-experian-txnservices
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: com.b4nkd.experian.txnservices
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://projects.spring.io/spring-boot/spring-swagge
+ r-experian-txnservices/
+Created-By: Maven Integration for Eclipse
+
